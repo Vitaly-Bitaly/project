@@ -2,8 +2,8 @@
 
 
 
-let age = 18;
+let vozrast = 18;
 
-let accessAllowed = ( age > 18 ) ? 'Poehali' : 'ne poehali';
+let accessAllowed = ( vozrast > 18 ) ? 'Poehali' : 'ne poehali';
 console.log( accessAllowed );
 
